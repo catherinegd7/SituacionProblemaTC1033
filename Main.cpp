@@ -21,7 +21,7 @@ int main() {
 
     do {
         cout << "\n--- MENU ---\n";
-        cout << "1. Mostrar transacciones\n";
+        cout << "1. Mostrar todos los carros\n";
         cout << "2. Filtrar por rango de fechas\n";
         cout << "3. Mayor transaccion\n";
         cout << "0. Salir\n";
@@ -61,4 +61,3 @@ int main() {
 
     return 0;
 }
-s
